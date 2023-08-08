@@ -8,7 +8,7 @@ Este repositório de GitHub é dedicado para a disciplina de Cinética Química 
 O trabalho é um estudo da cinética química de alguma reação escolhida que deve passar por 3 grandes desafios, visando aprimorar as habilidades de programação e de realizar uma revisão bibliográfica e estudos sobre o tema escolhido e conceitos da cinética química;
 
 ## 1: Descrição do movimento de partículas
-Produzir uma modelo inicial de simulação que descreva as variáveis físicas relevantes para cada partícula (átomo ou molécula) que serão consideradas na reação química. Essa descrição será feita em 3D, consideraremos a posição e a velocidade das partículas, assim como também obedecemos aos princípios e leis que envolvem a colisão das partículas, como a conservação do momento e a conservação da energia. Além disso, consideramos a natureza estatística dessas partículas, e que seu comportamento depende de variáveis termodinâmicas (i.e. temperatura). 
+Produzir uma modelo inicial de simulação que descreva as variáveis físicas relevantes para cada partícula (átomo ou molécula) que serão consideradas na reação química. Essa descrição será feita em 2D, consideraremos a posição e a velocidade das partículas, assim como também obedecemos aos princípios e leis que envolvem a colisão das partículas, como a conservação do momento e a conservação da energia. Além disso, consideramos a natureza estatística dessas partículas, e que seu comportamento depende de variáveis termodinâmicas (i.e. temperatura). 
 
 OBS: Consideraremos as partículas como gases ideais.
 
