@@ -24,3 +24,31 @@ No último desafio deve-se considerar que a conversão de reagentes para produto
 Repositório do GitHub (Esse querido aqui) e 3 documentos escritos em formato de artigos científicos de até 5 páginas para cada desafio apresentado. Incorpore nos documentos escritos os conceitos, as fórmulas matemáticas, descrição dos modelos e outros aspectos relevantes considerando os tópicos apresentados.
 
 ![ILUM-CNPEM](A1.png)
+
+# Simulation of Water Hydrolysis: A Chemical Kinetics Study
+
+This GitHub repository is dedicated to the Chemical Kinetics course in the 4th semester of the Bachelor's in Science and Technology at Ilum School of Science, part of the National Center for Research in Energy and Materials (CNPEM), taught by Prof. [Amauri de Paula](https://github.com/amaurijp). This project was carried out during the course. Below you will find an explanation of the work and the responsible contributors:
+
+- [Raphaella Tamyres](https://github.com/raphaella220046) - 220046  
+- [Vitor Barelli](https://github.com/Leprechas) - 220072
+
+This work is a study of the chemical kinetics of a chosen reaction that must pass through 3 major challenges, aiming to improve programming skills and conduct a bibliographic review and studies on the chosen topic and on chemical kinetics concepts.
+
+## 1: Description of Particle Motion (Project 1)
+Produce an initial simulation model that describes the relevant physical variables for each particle (atom or molecule) involved in the chemical reaction. This description will be done in 2D; we will consider the position and velocity of the particles, as well as adhere to the principles and laws governing particle collisions, such as conservation of momentum and energy. Additionally, we will consider the statistical nature of the particles, and that their behavior depends on thermodynamic variables (e.g., temperature).
+
+**Note:** We will consider the particles as ideal gases.
+
+## 2: Definition of the Chemical Reaction and Rate Laws (Project 2)
+For this challenge, groups should look for experimental data of a specific chemical reaction and determine its rate law, considering the concentration of the reactants, the rate constant (k), and the reaction order. Consider that k varies with temperature. As a reference for this challenge, it is suggested to read Chapter 28 of "Physical Chemistry: A Molecular Approach" (Donald McQuarrie and John Simon) or the Chem LibreTexts on Chemical Kinetics.
+
+**Note:** The professor allowed us to proceed with our theoretical data on the formation of water, dated 10/17.
+
+## 3: Stereochemistry and Activation Energy
+In the final challenge, you must consider that the conversion of reactants to products depends on spatial and energetic aspects. Not every atomic or molecular collision between reactants leads to the formation of products. There are stereochemical (spatial) issues involved that govern product formation. In addition, one must consider that catalysts can alter the kinetics of reactions. The groups should describe how these aspects influence a chemical reaction. It is suggested to look for a chemical reaction in the literature whose kinetics is altered by the presence of a catalyst. Experimental data must be used. As a reference for this challenge, it is suggested to read Chapter 29 of "Physical Chemistry: A Molecular Approach" (Donald McQuarrie and John Simon) or the Chem LibreTexts on Chemical Kinetics.
+
+## 4: Final Product
+A GitHub repository (this one) and 3 written documents formatted as scientific articles, up to 5 pages each, for each presented challenge. Incorporate concepts, mathematical formulas, model descriptions, and other relevant aspects into the written documents, considering the above topics.
+
+![ILUM-CNPEM](A1.png)
+
